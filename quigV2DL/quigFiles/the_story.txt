@@ -1,0 +1,18 @@
+Story
+	-Quig wakes up
+	-Small town
+	-Small town problems (side quests)
+	-The main goal is given at the start
+	-You need to bake a birthday cake for Derg
+		-Multiple paths
+		-The buying route
+			-Need to raise money to buy from bakers
+			-gain money by either threats or 
+		-The baking route
+			-Longer, needs to gather milk, eggs, flour,
+ 			sugar
+		-The witchcraft route
+			-Summon cake
+			-Dubious morally
+
+		
